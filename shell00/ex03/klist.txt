@@ -1,0 +1,5 @@
+Credentials cache: API:16836
+        Principal: ldarlene@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug  2 17:55:26 2021  Aug  3 03:55:26 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
